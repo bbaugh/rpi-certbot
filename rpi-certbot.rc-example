@@ -1,0 +1,3 @@
+lbase='/path/to/store/logs/and/keys'
+domains=( example.com www.example.com )
+lemail='your@email.address'
